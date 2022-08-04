@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(250, 250, 255);
+    padding: 1rem;
+  font-family: "Comic Sans MS"
+}
+
+#kysymys {
+    background-color: lightgreen;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.vaihtoehto {
+    background-color: lightblue;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.vaihtoehto:hover {
+    background-color: lightskyblue;
+}
+
+.oikein {
+    background-color: rgb(22, 192, 22);
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+.vaarin {
+    background-color: red;
+    border-radius: 15px;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+#nappi{
+  text-align: center;
+}
+
+#seuraava{
+  padding: 1rem;
+  margin: 1rem;
+}
